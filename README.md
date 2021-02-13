@@ -14,3 +14,4 @@
 
 ## Skills 🔧
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=data:image/svg%2bxml;base64,#00599C)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=#00599C&logoColor=white&color=2bbc8a)
