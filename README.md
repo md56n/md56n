@@ -3,7 +3,7 @@
 
 # Hey there 👋
 
-My name is Dawn Dixon and I'm an aspiring software developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
+## My name is Dawn Dixon and I'm an aspiring software developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/dawn-s-dixon).
 
@@ -13,9 +13,7 @@ When I'm not coding, you can find me gaming 🖥️, doing genealogy research �
 <a href="https://github.com/md56n/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4" />
 </a>
-<a href="https://github.com/md56n/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=md56n&show_icons=true&theme=algolia&hide=prs,issues,contribs" />
-</a>
+Generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 
