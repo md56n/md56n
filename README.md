@@ -1,7 +1,7 @@
 ![Header](https://github.com/md56n/md56n/blob/main/Dawn%20Dixon.png)
 
 
-#Hey there 👋
+# Hey there 👋
 
 My name is Dawn Dixon and I'm an aspiring software developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
 
