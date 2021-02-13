@@ -10,11 +10,14 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/dawn-s-dixon).
 When I'm not coding, you can find me gaming 🖥️, doing genealogy research 👪, or volunteering 😄!
 
 # Github Stats 📈
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=md56n&hide=prs,issues,contribs&show_icons=true&theme=algolia&layout=compact" />
+<a href="https://github.com/md56n/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4)](https://github.com/md56n/github-readme-stats)
+[![Top Langs]()]()
 
 [![Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=md56n&hide=prs,issues,contribs&show_icons=true&theme=algolia)](https://github.com/md56n/github-readme-stats)
 
