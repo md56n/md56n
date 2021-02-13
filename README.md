@@ -4,7 +4,7 @@
 ## Hey there 👋
 
 #### My name is Dawn Dixon and I'm an aspiring software developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
-#### You can also find me on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]](https://www.linkedin.com/in/dawn-s-dixon).
+#### You can also find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/dawn-s-dixon).
 #### When I'm not coding, you can find me gaming 🖥️, doing genealogy research 👪, or volunteering 😄!
 
 
