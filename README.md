@@ -14,7 +14,7 @@ When I'm not coding, you can find me gaming 🖥️, doing genealogy research �
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4" />
 </a>
 <a href="https://github.com/md56n/github-readme-stats">
-  <img align="center" style="height:300px" src="https://github-readme-stats.vercel.app/api?username=md56n&hide=prs,issues,contribs&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=md56n&show_icons=true&theme=algolia" />
 </a>
 
 
