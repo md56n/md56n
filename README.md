@@ -13,4 +13,4 @@
 ##### Generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills 🔧
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=data:image/svg%2bxml;base64,00599C)
