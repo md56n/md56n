@@ -11,7 +11,7 @@ When I'm not coding, you can find me gaming 🖥️, doing genealogy research �
 
 # Github Stats 📈
 <a href="https://github.com/md56n/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=3" />
 </a>
 <a href="https://github.com/md56n/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=md56n&hide=prs,issues,contribs&show_icons=true&theme=algolia" />
