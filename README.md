@@ -1,4 +1,4 @@
-[![Header](https://github.com/md56n/md56n/blob/main/DawnDixonHeader.png)]
+![Header](https://github.com/md56n/md56n/blob/main/DawnDixonHeader.png)
 
 
 <!--
