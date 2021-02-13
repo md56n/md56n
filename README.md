@@ -10,7 +10,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/dawn-s-dixon).
 When I'm not coding, you can find me gaming 🖥️, doing genealogy research 👪, or volunteering 😄!
 
 # Github Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia)](https://github.com/md56n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md56n&theme=algolia&langs_count=4)](https://github.com/md56n/github-readme-stats)
 
 [![Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=md56n&hide=prs,issues,contribs&show_icons=true&theme=algolia)](https://github.com/md56n/github-readme-stats)
 
