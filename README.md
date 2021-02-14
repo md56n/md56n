@@ -25,7 +25,8 @@
 ![](https://img.shields.io/badge/Database-DML-informational?style=flat&logo=DML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-DDL-informational?style=flat&logo=DDL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-MS%20Office-informational?style=flat&logo=Microsoft%20Office&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Software-Visual%20Studios-informational?style=flat&logo=DDL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=white&color=2bbc8a)
 
 
-Android Studio, Github, PyCharm, Arduino IDE, Unity Game Engine, TensorFlow, .Net
+PyCharm, Arduino IDE, Unity Game Engine, TensorFlow, .Net
