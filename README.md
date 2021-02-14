@@ -14,9 +14,9 @@
 
 ## Skills 🔧
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+QysrIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMi4zOTQgNmMtLjE2Ny0uMjktLjM5OC0uNTQzLS42NTItLjY5TDEyLjkyNi4yMmMtLjUwOS0uMjk0LTEuMzQtLjI5NC0xLjg0OCAwTDIuMjYgNS4zMWMtLjUwOC4yOTMtLjkyMyAxLjAxMy0uOTIzIDEuNnYxMC4xOGMwIC4yOTQuMTA0LjYyLjI3MS45MS4xNjcuMjkuMzk4LjU0My42NTIuNjlsOC44MTYgNS4wOWMuNTA4LjI5MyAxLjM0LjI5MyAxLjg0OCAwbDguODE2LTUuMDljLjI1NC0uMTQ3LjQ4NS0uNC42NTItLjY5LjE2Ny0uMjkuMjctLjYxNi4yNy0uOTFWNi45MWMuMDAzLS4yOTQtLjEtLjYyLS4yNjgtLjkxek0xMiAxOS4xMWMtMy45MiAwLTcuMTA5LTMuMTktNy4xMDktNy4xMSAwLTMuOTIgMy4xOS03LjExIDcuMTEtNy4xMWE3LjEzMyA3LjEzMyAwIDAxNi4xNTYgMy41NTNsLTMuMDc2IDEuNzhhMy41NjcgMy41NjcgMCAwMC0zLjA4LTEuNzhBMy41NiAzLjU2IDAgMDA4LjQ0NCAxMiAzLjU2IDMuNTYgMCAwMDEyIDE1LjU1NWEzLjU3IDMuNTcgMCAwMDMuMDgtMS43NzhsMy4wNzggMS43OEE3LjEzNSA3LjEzNSAwIDAxMTIgMTkuMTF6bTcuMTEtNi43MTVoLS43OXYuNzloLS43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXptMi45NjIgMGgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC43OXYuNzloLjc5eiIvPjwvc3ZnPg==&labelColor=abcdef&color=1f7fdf)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&labelColor=abcdef&color=1f7fdf)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&labelColor=abcdef&color=1F7FDF)
-![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c%20sharp&labelColor=abcdef&color=1F7FDF)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=black&logo=Python&labelColor=abcdef&color=1f7fdf)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=black&labelColor=abcdef&color=1F7FDF)
+![](https://img.shields.io/badge/Code-C%20Sharp-informational?style=flat&logo=c%20sharp&logoColor=black&labelColor=abcdef&color=1F7FDF)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)  
