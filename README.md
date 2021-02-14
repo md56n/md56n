@@ -27,6 +27,8 @@
 ![](https://img.shields.io/badge/Software-MS%20Office-informational?style=flat&logo=Microsoft%20Office&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Software-Android%20Studio-informational?style=flat&logo=Android%20Studio&logoColor=white&color=2bbc8a)
-
-
-PyCharm, Arduino IDE, Unity Game Engine, TensorFlow, .Net
+![](https://img.shields.io/badge/Software-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Software-.NET-informational?style=flat&logo=dotNet&logoColor=white&color=2bbc8a)
