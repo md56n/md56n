@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplusColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C&num-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
