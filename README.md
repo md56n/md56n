@@ -3,7 +3,7 @@
 
 ## Hey there 👋
 
-#### My name is Dawn Dixon and I'm an aspiring software developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
+#### My name is Dawn Dixon and I'm an app developer. I just got my Bachelor of Science in Computer Science from UMKC in December 2020.
 #### You can also find me on [LinkedIn](https://www.linkedin.com/in/dawn-s-dixon).
 #### When I'm not coding, you can find me gaming 🖥️, doing genealogy research 👪, or volunteering 😄!
 
